@@ -35,7 +35,7 @@ Sou QA Engineer em transição para cibersegurança, com foco em Blue Team. Tenh
 
 <img src="assets/img1.png" width="400"/>
 <img src="assets/img2.png" width="400"/>
-
+<img src="assets/img3.png" width="400"/>
 ---
 
 ## 📫 Contato
