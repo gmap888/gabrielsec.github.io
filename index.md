@@ -40,7 +40,7 @@ Sou QA Engineer em transição para cibersegurança, com foco em Blue Team. Tenh
 
 ## 📫 Contato
 
-- LinkedIn: [[linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil)](https://www.linkedin.com/in/gmapwebdev/)}
-- GitHub: [github.com/seu-usuario](https://github.com/gmap888)
+- LinkedIn: [(https://www.linkedin.com/in/gmapwebdev/)]
+- GitHub:[(https://github.com/gmap888)]
 - Email: Gmapwebdev@gmail.com
 - TEL +55 34998354994
