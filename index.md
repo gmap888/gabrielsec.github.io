@@ -19,7 +19,7 @@ Sou QA Engineer em transição para cibersegurança, com foco em Blue Team. Tenh
 ### 📡 **Análise DNS e ICMP com tcpdump**
 - Análise de pacotes via `tcpdump` para investigação de erro "udp port 53 unreachable"
 - Relatório de incidente com identificação do protocolo, porta afetada e resposta ICMP
-- 🔗 [Ver no GitHub](https://github.com/seu-usuario/dns-icmp-analysis)
+- 🔗 [Ver no GitHub](https://github.com/gmap888/-cybersecurity-incident-dns-icmp/tree/main)
 
 ---
 
@@ -27,7 +27,7 @@ Sou QA Engineer em transição para cibersegurança, com foco em Blue Team. Tenh
 - Checklist completo de controles administrativos, técnicos e físicos
 - Avaliação de conformidade com PCI DSS e GDPR
 - Recomendação de melhorias baseadas no NIST Cybersecurity Framework
-- 🔗 [Ver no GitHub](https://github.com/seu-usuario/botium-toys-security-audit)
+- 🔗 [Ver no GitHub](https://github.com/gmap888/securityauditproject/tree/main)
 
 ---
 
@@ -40,6 +40,7 @@ Sou QA Engineer em transição para cibersegurança, com foco em Blue Team. Tenh
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil)
-- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
-- Email: seuemail@exemplo.com
+- LinkedIn: [[linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil)](https://www.linkedin.com/in/gmapwebdev/)}
+- GitHub: [github.com/seu-usuario](https://github.com/gmap888)
+- Email: Gmapwebdev@gmail.com
+- TEL +55 34998354994
